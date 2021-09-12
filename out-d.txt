@@ -1,0 +1,64 @@
+Customer 1 arrives.
+Barber 0 is awake and serving customer 1.
+Barber 0 is asleep.
+Customer 2 arrives.
+Barber 1 is awake and serving customer 2.
+Customer 3 arrives.
+Barber 3 is awake and serving customer 3.
+Customer 4 arrives.
+Barber 2 is awake and serving customer 4.
+Customer 5 arrives.
+Barber 4 is awake and serving customer 5.
+Barber 1 is asleep.
+Barber 4 is asleep.
+Customer 6 arrives.
+Barber 0 is awake and serving customer 6.
+Customer 7 arrives.
+Barber 1 is awake and serving customer 7.
+Customer 8 arrives.
+Barber 4 is awake and serving customer 8.
+Barber 4 is asleep.
+Customer 9 arrives.
+Barber 4 is awake and serving customer 9.
+Barber 3 is asleep.
+Barber 4 is asleep.
+Customer 10 arrives.
+Barber 3 is awake and serving customer 10.
+Barber 2 is asleep.
+Barber 1 is asleep.
+Customer 11 arrives.
+Barber 4 is awake and serving customer 11.
+Customer 12 arrives.
+Barber 2 is awake and serving customer 12.
+Barber 3 is asleep.
+Barber 0 is asleep.
+Barber 4 is asleep.
+Customer 13 arrives.
+Barber 1 is awake and serving customer 13.
+Barber 2 is asleep.
+Customer 14 arrives.
+Barber 3 is awake and serving customer 14.
+Barber 3 is asleep.
+Customer 15 arrives.
+Barber 0 is awake and serving customer 15.
+Customer 16 arrives.
+Barber 4 is awake and serving customer 16.
+Barber 0 is asleep.
+Customer 17 arrives.
+Barber 2 is awake and serving customer 17.
+Customer 18 arrives.
+Barber 3 is awake and serving customer 18.
+Customer 19 arrives.
+Barber 0 is awake and serving customer 19.
+Barber 1 is asleep.
+Customer 20 arrives.
+Barber 1 is awake and serving customer 20.
+Barber 4 is asleep.
+Barber 3 is asleep.
+Customer 21 arrives.
+Barber 4 is awake and serving customer 21.
+Barber 2 is asleep.
+Barber 0 is asleep.
+Customer 22 arrives.
+Barber 1 is asleep.
+Barber 4 is asleep.
